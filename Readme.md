@@ -37,7 +37,7 @@ Création du portfolio personnel de Michaël Auger sur des réalisations passée
 ![Portefeuille illustratif](https://static-assets.codecademy.com/Paths/front-end-career-path/personal-portfolio-website/personal-portfolio-website-screenshot.png)
 
 ## Wireframe
-![Wireframe](../Resources/images/Wireframe.png)
+![Wireframe](Resources/images/Wireframe.png)
 
 ## Notes
 **Outils:**
