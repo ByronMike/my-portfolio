@@ -3,9 +3,10 @@
 2. [Éléments fournis](#Éléments-fournis)
 3. [Cahier des charges](#Cahier-des-charges)
 4. [Projet illustratif](#Projet-illustratif)
-5. [Notes](#Notes)
-6. [Évaluation](#Évaluation)
-7. [Contact](#Contact)
+5. [Wireframe](#Wireframe)
+6. [Notes](#Notes)
+7. [Évaluation](#Évaluation)
+8. [Contact](#Contact)
 
 
 ### Information Générale
