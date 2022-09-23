@@ -207,7 +207,7 @@ img {
 }
 
 .cols img {
-    width: 8.5%;
+    width: 1rem;
     min-width: 5%;
 }
 
