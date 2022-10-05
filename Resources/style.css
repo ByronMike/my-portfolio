@@ -207,7 +207,7 @@ img {
 }
 
 .cols img {
-    width: 5rem;
+    width: 1rem;
     min-width: 5%;
 }
 
@@ -493,7 +493,6 @@ footer .wrapper .container-icons li {
 
     h4 {
         font-size: 0.75rem;
-
     }
 
     p , label, li , .button-content {
