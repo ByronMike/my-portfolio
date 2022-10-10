@@ -4,9 +4,9 @@
 3. [Specifications](#Specifications)
 4. [Illustrative project](#Illustrative-project)
 5. [Wireframe](#Wireframe)
-6. [Status](#Status)
-7. [Technologie](#Technologies)
-8. [Setup](#Setup)
+6. [Technologies](#Technologies)
+7. [Setup](#Setup)
+8. [Status](#Status)
 9. [Contact](#Contact)
 
 
