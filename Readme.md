@@ -57,6 +57,10 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
  * Web : **HTML5**, **CSS3**, **JS**
 
 ## Setup
+1. Clone this repo to your desktop :\
+`git clone https://github.com/ByronMike/MyPortfolio.git`
+2. Open index.html file using local browser.
+
 Live website : [MyPortfolio](https://byronmike.github.io/MyPortfolio/)
 
 ## Status
