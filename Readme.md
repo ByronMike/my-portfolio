@@ -4,9 +4,10 @@
 3. [Specifications](#Specifications)
 4. [Illustrative project](#Illustrative-project)
 5. [Wireframe](#Wireframe)
-6. [Notes](#Notes)
-7. [Assessment](#Assessment)
-8. [Contact](#Contact)
+6. [Status](#Status)
+7. [Technologie](#Technologies)
+8. [Setup](#Setup)
+9. [Contact](#Contact)
 
 
 ### General information
@@ -40,7 +41,7 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
 ## Wireframe
 ![Wireframe](Resources/images/Wireframe.png)
 
-## Notes
+## Technologies
 **Tools:**
  * Project management : **Monday**
  * Wireframe : **Figma**
@@ -51,8 +52,10 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
 **Languages :**
  * Web : **HTML**, **CSS** ,**JS**
 
+## Setup
+Open index.html file using local browser.
 
-## Assessment
+## Status
 :heavy_check_mark: This project was validated on September 22, 2022.
 
 
