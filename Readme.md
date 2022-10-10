@@ -54,7 +54,7 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
  * Site hosting : **GITHUB**
   
 **Languages :**
- * Web : **HTML**, **CSS** ,**JS**
+ * Web : **HTML**, **CSS**, **JS**
 
 ## Setup
 Live website : [MyPortfolio](https://byronmike.github.io/MyPortfolio/)
