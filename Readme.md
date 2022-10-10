@@ -1,3 +1,7 @@
+# My Portfolio
+
+My personal portfolio website created as part of a Codecademy project.
+
 ## Table of content
 1. [General information](#General-information)
 2. [Elements provided](#Elements-provided)
@@ -53,11 +57,10 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
  * Web : **HTML**, **CSS** ,**JS**
 
 ## Setup
-Open index.html file using local browser.
+Live website : [MyPortfolio](https://byronmike.github.io/MyPortfolio/)
 
 ## Status
 :heavy_check_mark: This project was validated on September 22, 2022.
-
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail;com)
