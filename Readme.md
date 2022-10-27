@@ -1,12 +1,17 @@
+# My Portfolio
+
+My personal portfolio website created as part of a Codecademy project.
+
 ## Table of content
 1. [General information](#General-information)
 2. [Elements provided](#Elements-provided)
 3. [Specifications](#Specifications)
 4. [Illustrative project](#Illustrative-project)
 5. [Wireframe](#Wireframe)
-6. [Notes](#Notes)
-7. [Assessment](#Assessment)
-8. [Contact](#Contact)
+6. [Technologies](#Technologies)
+7. [Setup](#Setup)
+8. [Status](#Status)
+9. [Contact](#Contact)
 
 
 ### General information
@@ -40,7 +45,7 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
 ## Wireframe
 ![Wireframe](Resources/images/Wireframe.png)
 
-## Notes
+## Technologies
 **Tools:**
  * Project management : **Monday**
  * Wireframe : **Figma**
@@ -49,12 +54,17 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
  * Site hosting : **GITHUB**
   
 **Languages :**
- * Web : **HTML**, **CSS** ,**JS**
+ * Web : **HTML5**, **CSS3**, **JS**
 
+## Setup
+1. Clone this repo to your desktop :\
+`git clone https://github.com/ByronMike/MyPortfolio.git`
+2. Open index.html file using local browser.
 
-## Assessment
+Live website : [MyPortfolio](https://byronmike.github.io/MyPortfolio/)
+
+## Status
 :heavy_check_mark: This project was validated on September 22, 2022.
-
 
 ## Contact
 * [Email](mailto:auger.michaell@gmail.com)
