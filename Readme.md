@@ -61,7 +61,7 @@ Development of Michaël Auger's personal portfolio on his past achievements in w
 `git clone https://github.com/ByronMike/MyPortfolio.git`
 2. Open index.html file using local browser.
 
-Live website : [MyPortfolio](https://byronmike.github.io/MyPortfolio/)
+Live website : [MyPortfolio](https://byronmike.github.io/my-portfolio/)
 
 ## Status
 :heavy_check_mark: This project was validated on September 22, 2022.
